@@ -209,3 +209,16 @@ plt.show()
 - **Python**, **Tableau** y **SQL** representan el equilibrio óptimo entre alta demanda laboral y salarios competitivos para un *Data Analyst*.
 - Habilidades ofimáticas básicas como **Word** o **PowerPoint** presentan baja demanda relativa y no aportan un incremento salarial significativo.
 - Las herramientas especializadas en la **Nube** (*Cloud Computing*) están asociadas a los salarios más altos, aunque actualmente cuentan con un volumen de demanda menor para perfiles estrictamente de *Data Analyst*.
+
+---
+
+## Conclusiones Finales
+
+Este proyecto permitió extraer insights clave sobre el estado actual del mercado laboral en la industria de datos:
+
+1. **La triada fundamental (Core Stack):** **SQL** y **Python** son herramientas indiscutibles y transversales a los tres roles analizados. Dominar ambas bases es el requisito de entrada más sólido para cualquier profesional que busque insertarse en el sector.
+2. **Especialización vs. Generalización:** Mientras que **Excel** y herramientas de BI (**Power BI / Tableau**) sostienen la operatividad diaria del *Data Analyst*, la transición hacia salarios más competitivos requiere incorporar habilidades de programación avanzada (*Python*) y tecnologías en la **Nube** (*Cloud Computing*), áreas donde convergen la *Data Science* y la *Data Engineering*.
+3. **Crecimiento Profesional:** El análisis salarial evidencia que el mayor salto económico no solo proviene de la antigüedad (*Seniority*), sino de la capacidad de evolucionar la infraestructura de datos y el modelado predictivo.
+
+### Aprendizajes Personales
+A nivel técnico, la realización de este proyecto me permitió consolidar el uso de **Pandas** para la manipulación y filtrado avanzado de datos, aplicar la libreria **adjustText** para resolver superposiciones visuales en gráficos dispersos de **Matplotlib/Seaborn**, y estructurar un flujo de trabajo reproducible mediante **Jupyter Notebooks** y control de versiones con **Git/GitHub**.
