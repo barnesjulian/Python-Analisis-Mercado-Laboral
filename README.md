@@ -82,7 +82,7 @@ Posteriormente, se filtraron únicamente las ofertas orientadas al puesto de **D
 
 Con esta estructura de datos, se generó un gráfico de líneas para visualizar las tendencias temporales a lo largo del año.
 
-📌 **Notebook del análisis:** [`2_Tendencia_De_La_Demanda.ipynb`](Project/2_Tendencia_De_La_Demanda.ipynb)
+📌 **Notebook del análisis:** [`2_Tendencia_De_La_Demanda.ipynb`](2_Tendencia_De_La_Demanada.ipynb)
 
 ### Código del gráfico
 
@@ -131,7 +131,7 @@ plt.show()
 
 En esta sección se procesaron y limpiaron los datos salariales para generar un gráfico de diagrama de caja (*Boxplot*). En él se compara la distribución del salario anual entre los tres roles principales de datos (*Data Analyst*, *Data Engineer* y *Data Scientist*) junto con sus respectivos niveles *Senior*.
 
-📌 **Notebook del análisis:** [`3_Analisis_Salario.ipynb`](Project/3_Analisis_Salario.ipynb)
+📌 **Notebook del análisis:** [`3_Analisis_Salario.ipynb`](3_Analisis_Salario.ipynb)
 
 ### Código del gráfico
 
@@ -165,7 +165,7 @@ plt.show()
 
 Para determinar las habilidades "óptimas" (que combinan alta demanda y buena remuneración), se filtró el dataset considerando únicamente el puesto de **Data Analyst**. Se tomaron las habilidades ubicadas en el **Top 5%** de demanda laboral, cruzándolas con la mediana salarial que ofrecen y su porcentaje de aparición en las ofertas laborales.
 
-📌 **Notebook del análisis:** [`4_Habilidades_Optimas.ipynb`](Project/4_Habilidades_Optimas.ipynb)
+📌 **Notebook del análisis:** [`4_Habilidades_Optimas.ipynb`](4_Habilidades_Optimas.ipynb)
 
 ### Código del gráfico
 
