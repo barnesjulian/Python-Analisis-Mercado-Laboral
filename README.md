@@ -23,7 +23,7 @@ Para identificar las 3 habilidades más demandadas en el área de datos, filtré
 
 Este resultado permite visualizar claramente los requisitos del mercado laboral, facilitando la toma de decisiones sobre qué tecnologías aprender según el rol objetivo.
 
-📌 **Notebook del análisis:** [`1_Demanda_Habilidades.ipynb`](Project/1_Demanda_Habilidades.ipynb)
+📌 **Notebook del análisis:** [`1_Demanda_Habilidades.ipynb`](1_Demanda_Habilidades.ipynb)
 
 ### Código del gráfico
 
