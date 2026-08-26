@@ -2,7 +2,7 @@
 
 Este proyecto consiste en un análisis exploratorio de datos sobre el mercado laboral de la industria de datos, enfocado en identificar las habilidades más demandadas, las tendencias de mercado, los salarios promedios y las habilidades óptimas para impulsar una carrera en **Data Analysis**, **Data Science** y **Data Engineering**.
 
-El projecto lo armé con el objetivo de tener una práctica realista tras completar un curso de Python enfocado en Análisis de Datos.
+El proyecto lo armé con el objetivo de tener una práctica realista tras completar un curso de Python enfocado en Análisis de Datos.
 
 ## Herramientas Utilizadas
 
