@@ -63,7 +63,7 @@ plt.show()
 
 ### Resultados
 
-![Habilidades Demandadas](Project/Imágenes/demanda_habilidades_roles_datos.png)
+![Habilidades Demandadas](Imagenes/demanda_habilidades_roles_datos.png)
 
 ### Descubrimientos
 
@@ -116,7 +116,7 @@ plt.show()
 
 ### Resultados
 
-![Tendencia Habilidades](Project/Imágenes/tendencia_habilidades_da.png)
+![Tendencia Habilidades](Imagenes/tendencia_habilidades_da.png)
 
 ### Descubrimientos
 
@@ -152,7 +152,7 @@ plt.show()
 
 ### Resultados
 
-![Distribución de Salario](Project/Imágenes/dist_salario_da.png)
+![Distribución de Salario](Imagenes/dist_salario_da.png)
 
 ### Descubrimientos
 
@@ -202,7 +202,7 @@ plt.show()
 
 ### Resultados
 
-![Habilidades Óptimas](Project/Imágenes/hab_opt_da.png)
+![Habilidades Óptimas](Imagenes/hab_opt_da.png)
 
 ### Descubrimientos
 
